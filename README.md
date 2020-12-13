@@ -1,2 +1,2 @@
-# LearningToRank
-Learning to rank problems
+
+Code examples for Learning to rank problems
